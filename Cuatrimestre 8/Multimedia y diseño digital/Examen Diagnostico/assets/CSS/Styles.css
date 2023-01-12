@@ -1,0 +1,16 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.navDerecho {
+    margin: 0 0 0 0;
+}
+
+.navExterno {
+    
+    padding: 0 1rem 0 0;
+}
